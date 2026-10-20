@@ -54,4 +54,5 @@ Record the date, original decision, change, reason, and potential impact of ever
 
 ## 8. Status
 
-Draft pending Git commit. Do not begin analysis of the real dataset until the preregistration has been committed.
+Finalized for preregistration commit. The analysis plan must be committed before inspecting real outcome patterns. Any subsequent deviations must be documented in Section 7.
+
