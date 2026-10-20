@@ -1,0 +1,20 @@
+{
+    "dataset": "UCI Student Performance - Mathematics",
+    "dataset_file": "data/student-mat.csv",
+    "total_records": 395,
+    "valid_records": 395,
+    "excluded_records": 0,
+    "exclusion_rule": "Exclude records with missing or invalid studytime or G3.",
+    "analysis": {
+        "n": 395,
+        "spearman_rho": 0.10516968678133246,
+        "p_value": 0.0366735828712141,
+        "bootstrap_ci_95": [
+            0.0011288522480174137,
+            0.20641907782413038
+        ],
+        "valid_bootstrap_samples": 5000,
+        "kendall_tau_b": 0.08511177281922809,
+        "kendall_p_value": 0.03379329729979403
+    }
+}
